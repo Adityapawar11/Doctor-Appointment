@@ -1,0 +1,8 @@
+com\request\model\Request.class
+com\request\controller\RequestController.class
+com\request\repository\RequestRepository.class
+com\request\service\SequenceGeneratorService.class
+com\request\RequestApplication.class
+com\request\service\RequestService.class
+com\request\service\RequestServiceImpl.class
+com\request\model\DbSequence.class
